@@ -1,0 +1,39 @@
+/* .analytics-container {
+    width: 100%;
+    background-color: #fff;
+    padding: 16px;
+  }
+  
+  .max-width-container {
+    max-width: 1240px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  
+  .laptop-image {
+    width: 500px;
+    margin: auto;
+    margin-bottom: 4px;
+  }
+  
+  .text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .text-green {
+    color: #00df9a;
+    font-weight: bold;
+  }
+  
+  cta-button {
+    background-color: #000;
+    color: #fff;
+    width: 200px;
+    border-radius: 4px;
+    font-weight: medium;
+    margin: 6px auto;
+  }
+   */

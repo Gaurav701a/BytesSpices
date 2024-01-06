@@ -1,0 +1,64 @@
+/* .footer-container {
+    max-width: 1240px;
+    margin: auto;
+    padding: 16px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    background-color: #1a202c;
+    color: white;
+  }
+  
+  .max-width-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+  
+  .footer-info {
+    flex: 1;
+  }
+  
+  .company-name {
+    width: 100%;
+    text-align: left;
+    font-size: 3xl;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .company-description {
+    padding-top: 4px;
+    width: 100%;
+    text-align: left;
+    color: #000;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6px;
+  }
+  
+  .footer-section-title {
+    font-size: 1.5rem;
+    font-weight: medium;
+    color: #000;
+  }
+  
+  .footer-link {
+    padding-top: 2px;
+    font-size: 1rem;
+    list-style: none;
+    color: #000;
+  }
+  
+  .footer-link:hover {
+    color: #00df9a;
+  }
+   */

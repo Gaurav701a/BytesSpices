@@ -1,0 +1,64 @@
+/* .cards-container {
+    width: 100%;
+    padding: 10rem 0;
+    background-color: #fff;
+  }
+  
+  .max-width-container {
+    max-width: 1240px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+  
+  .card {
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 4px;
+    transform-origin: center;
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .icon {
+    width: 20px;
+    margin: 0 auto;
+    margin-top: -3rem;
+    background-color: #fff;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2xl;
+    font-weight: bold;
+    padding: 8px 0;
+  }
+  
+  .price {
+    text-align: center;
+    font-size: 4xl;
+    font-weight: bold;
+  }
+  
+  .description {
+    text-align: center;
+    font-size: medium;
+    margin-top: 8px;
+  }
+  
+  .start-trial-button {
+    background-color: #00df9a;
+    width: 200px;
+    border-radius: 4px;
+    font-weight: medium;
+    margin: 6px auto;
+    padding: 6px;
+    color: #fff;
+  }
+   */

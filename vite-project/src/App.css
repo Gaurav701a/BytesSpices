@@ -1,0 +1,22 @@
+.sequential-text-loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.letter {
+  font-size: 24px;
+  opacity: 0;
+  animation: fadeInOut 2s infinite;
+  animation-delay: calc(0.2s * var(--index));
+}
+
+@keyframes fadeInOut {
+  0%, 100% {
+      opacity: 0;
+  }
+  50% {
+      opacity: 1;
+  }
+}
